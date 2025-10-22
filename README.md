@@ -1,4 +1,4 @@
-Hi, I'm Xosu Philipp, an Electronics Engineer with a passion for hardware development. While I enjoy programming, my true love lies in designing circuits that I can physically interact with. The thrill of soldering, testing, and debugging in the lab truly feels like coming home.
+Hi, I'm Josué (Xosu) Olmeda, an Electronics Engineer with a passion for hardware development. While I enjoy programming, my true love lies in designing circuits that I can physically interact with. The thrill of soldering, testing, and debugging in the lab truly feels like coming home.
 
 With over 10 years of experience in the consumer electronics and automotive industries, I specialise in Embedded Systems and Power Electronics. However, I love everything related to electronics.
 
